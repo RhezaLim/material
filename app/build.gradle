@@ -34,7 +34,7 @@ android {
 }
 
 ext{
-    libSupportVersion = '27.1.1'
+    libSupportVersion = '28.0.0'
 }
 
 dependencies {
